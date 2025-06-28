@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5543d8b-e297-4245-89f5-c20a114d049b" name="Changes" comment="ReamMe.md erstellt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a5543d8b-e297-4245-89f5-c20a114d049b" name="Changes" comment="So habe jetzt einen Fragenkatalog erstellt mit vorerst 26 Fragen und meistens Multiple-Choise-Fragen.&#10;Es hat noch kein Test stattgefunden. ich überprüfe meinen Code gleich nochmal auf fehler.">
       <change beforePath="$PROJECT_DIR$/MasterQuiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/MasterQuiz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751098368938</updated>
-      <workItem from="1751098369924" duration="14900000" />
+      <workItem from="1751098369924" duration="15355000" />
     </task>
     <task id="LOCAL-00001" summary="ReamMe.md erstellt">
       <option name="closed" value="true" />
@@ -86,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751100278588</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="So habe jetzt einen Fragenkatalog erstellt mit vorerst 26 Fragen und meistens Multiple-Choise-Fragen.&#10;Es hat noch kein Test stattgefunden. ich überprüfe meinen Code gleich nochmal auf fehler.">
+      <option name="closed" value="true" />
+      <created>1751143605974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751143605974</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ReamMe.md erstellt" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReamMe.md erstellt" />
+    <MESSAGE value="So habe jetzt einen Fragenkatalog erstellt mit vorerst 26 Fragen und meistens Multiple-Choise-Fragen.&#10;Es hat noch kein Test stattgefunden. ich überprüfe meinen Code gleich nochmal auf fehler." />
+    <option name="LAST_COMMIT_MESSAGE" value="So habe jetzt einen Fragenkatalog erstellt mit vorerst 26 Fragen und meistens Multiple-Choise-Fragen.&#10;Es hat noch kein Test stattgefunden. ich überprüfe meinen Code gleich nochmal auf fehler." />
   </component>
 </project>
